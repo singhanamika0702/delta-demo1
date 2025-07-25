@@ -1,9 +1,9 @@
 # delta-demo1
 This is a demo for Git and Github class.
 
-#Teacher
+# Teacher
 Shradha Khapra
 
-#Student
+# Student
 Delta student
 
